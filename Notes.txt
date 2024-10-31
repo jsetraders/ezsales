@@ -1,0 +1,6 @@
+1. Resolved The trusted_host_patterns setting in Drupal
+	https://www.youtube.com/watch?v=SlL357U5m2Y
+	See updated_ezsales_settings.php
+
+2.Resolved php OPcode caching in production environment
+	https://www.youtube.com/watch?v=fyxwg92FyD0
